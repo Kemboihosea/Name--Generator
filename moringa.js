@@ -15,8 +15,57 @@ let mygendervalue=getgender();
 // function get gender by value
 if (monthofbirth<0 monthofbirth >12){
     return true;
-}else{
+}else{(
     return false;
 }
 }
+function dayvalidator ( {
+    if (monthofbirth=== 2 && Number(yearofbirth)%4===0) {
+        if(dayofbirth>28 || dayofbirth<1){
+            return false;
+        }else if (monthofbirth=== 2 && dayofbirth>29){
+            return false;
+        } else if (monthofbirth=== 2 &&) dayofbirth <1) {
+            return false;
+        } else {
+            return true;
+        }
+        }
+        
+        //validation variables
+        let monthvalid =motthvalidator()
+        let dayvalid = dayvalidator();=
++
+        //formula to determine day of birth (sunday = 1,Monday =2)etc..
+        let dayofweeknumber=math.floor(((Number(yearofbirth.onselectionchange(0,2))/4)-2*Number(yearofbirth
+            ((5*Number(yearofbirth.onselectionchange(2,4))/4))/4)) + ((26*(monthofbirth+1)/10))+dayofbirth)%
 
+            //creating arrays of Akan names for male & females and days of the week
+            let daysOfweek = [
+                "Sunday ","Monday",Tuesday ", "Wednesday ", "Thursday ","Friday","Saturday"];
+
+                let MaleAkanNames = [
+                    "kwasi","Kwadwo","Kwabena","kwaku","Yaw","Kofi","kwame",
+                ];
+
+                    let femaleAkanNames = [
+                    "Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"
+                    ];
+
+                    //generating and index value to select items on arrays 
+                    let index;
+                    //fix formula bug
+                    if (daysOfweekNumber== 0){
+                        index = 6;
+                    } else {
+                        index = dayofweeknumber -1;
+                    }
+
+
+                
+
+                
+
+
+
+}
