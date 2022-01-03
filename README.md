@@ -1,17 +1,21 @@
 # NAME -GENERATOR
 This is my independent project given to us moringa school.
-## Overall Description
+## DESCRIPTION
 For this week's Independent Project,I will be required to build a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
-## Technologies
+## TECHNOLOGIES USED
 1. Html.
 2. JavaScript.
 3. Css.
 4. Bootstrap.
-### Author
+### AUTHOR
 
 Hosea Kipkemoi Kimutai
+
+####LICENSE
+
+GNU V3.0 License
 
 
