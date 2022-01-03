@@ -14,8 +14,8 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 
 Hosea Kipkemoi Kimutai
 
-####LICENSE
+#### LICENSE
 
 GNU V3.0 License
-
+https://github.com/Kemboihosea/project-2/commit/c4c1ae3eb38191b327b9fcb38869c23f6ffd8dc7
 
