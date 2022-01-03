@@ -16,6 +16,6 @@ Hosea Kipkemoi Kimutai
 
 #### LICENSE
 
-GNU V3.0 License
-https://github.com/Kemboihosea/project-2/commit/c4c1ae3eb38191b327b9fcb38869c23f6ffd8dc7
+[GNU V3.0 License](https://github.com/Kemboihosea/project-2/)
+
 
