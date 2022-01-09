@@ -1,6 +1,42 @@
-body{
-
-
-    background-color:aqua;
-    
-}
+body {
+    background-color:yellowgreen;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+   #year-input{
+    border-radius: 2px;
+    width: 60px;
+    height: 20px;
+    box-shadow:white;
+    background-color: white;
+  }
+  
+  #month-input{
+    border-radius: 2px;
+    width: 60px;
+    height: 20px;
+    box-shadow:white;
+    background-color: white;
+  }
+  
+  #day-input{
+    border-radius: 2px;
+    width: 60px;
+    height: 20px;
+    box-shadow: white;
+    background-color:white;
+  }
+  
+  #submit {
+    border-radius: 2px;
+    width: 60px;
+    background-color:white;
+  }
+  
+  .clear {
+    border-radius: 2px;
+    width: 50px;
+    background-color: white;
+  }
+  
