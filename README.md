@@ -21,6 +21,6 @@ Hosea Kipkemoi Kimutai
 
 ## LICENSE
 
-[GNU V3.0 License](https://github.com/Kemboihosea/Name--Generator)
+[MIT LICENCE](https://opensource.org/licenses/mit-license.php)
 
 
