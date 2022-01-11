@@ -7,7 +7,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 
 ## MY GITHUB PAGE LINK
 
-https://kemboihosea.github.io/project-2/
+https://github.com/Kemboihosea/Name-Generator
 
 
 ## TECHNOLOGIES USED
@@ -15,12 +15,11 @@ https://kemboihosea.github.io/project-2/
 2. JavaScript.
 3. Css.
 4. Bootstrap.
-### AUTHOR
+## AUTHOR
 
 Hosea Kipkemoi Kimutai
 
-#### LICENSE
-
-[GNU V3.0 License](https://github.com/Kemboihosea/project-2/)
+## LICENSE
+https://kemboihosea.github.io/Name-Generator/
 
 
